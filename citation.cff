@@ -5,7 +5,7 @@ authors:
   - family-names: Stuart
     given-names: Chalk
     orcid: https://orcid.org/0000-0002-0703-7776
-title: "ChalkLab/Dataset-NIST-TRC-JSON: Initial Release"
+title: "ChalkLab/Dataset-NIST-TRC-JSONLD: Initial Release"
 keywords:
   - JSON-LD
   - ThermoML
