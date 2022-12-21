@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/465061401.svg)](https://zenodo.org/badge/latestdoi/465061401)
+
 This is a set of JSON-LD files populated with data from ThermoML (XML) files documented at
 https://trc.nist.gov/ThermoML/ and available at https://doi.org/10.18434/mds2-2422. The available files can be
 downloaded from the links below (there is no need to clone the whole repository):
